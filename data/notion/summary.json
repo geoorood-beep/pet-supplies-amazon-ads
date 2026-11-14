@@ -1,0 +1,288 @@
+{
+ "cat": {
+  "title": "猫喂水器准词表.xlsx",
+  "sheet": "准词表原始",
+  "sheets": {
+   "准词表原始": 4750,
+   "历史广告原始": 109,
+   "历史广告聚合": 109,
+   "聚合说明": 13
+  },
+  "rows": 4750,
+  "cols": [
+   "关键词词组",
+   "关键词销量",
+   "搜索量",
+   "搜索占比",
+   "CPR",
+   "自然排名",
+   "竞品表现得分",
+   "B0BWHFS3PK",
+   "B0D1CH5KMY",
+   "B0DJVX1BX6",
+   "B0H3MVFK4Q",
+   "B0G4V95BFW",
+   "标准化关键词（匹配辅助）",
+   "历史广告点击",
+   "历史广告CTR",
+   "ACoS",
+   "CPA",
+   "CVR",
+   "广告订单",
+   "搜索量层级"
+  ],
+  "competitors": [
+   "B0BWHFS3PK",
+   "B0D1CH5KMY",
+   "B0DJVX1BX6",
+   "B0H3MVFK4Q",
+   "B0G4V95BFW"
+  ],
+  "band_count": {
+   "4–<6": 351,
+   "无分数(-)": 876,
+   "<4": 3299,
+   "6–<8": 110,
+   "8–10": 114
+  },
+  "band_sv": {
+   "4–<6": 782418,
+   "无分数(-)": 702047,
+   "<4": 2786279,
+   "6–<8": 52815,
+   "8–10": 61409
+  },
+  "share_subset": 4750,
+  "share_subset_sv": 4384968,
+  "tier_count": {
+   "L8": 1,
+   "L7": 1,
+   "L5": 8,
+   "L4": 34,
+   "L3": 37,
+   "L2": 85,
+   "L1": 344,
+   "L0(<1,000 总纲未定义)": 4240
+  },
+  "top_sv": [
+   [
+    "cat water fountain",
+    308708,
+    4.0
+   ],
+   [
+    "water filter",
+    228723,
+    null
+   ],
+   [
+    "cat",
+    98493,
+    null
+   ],
+   [
+    "dog water fountain",
+    96248,
+    2.0
+   ],
+   [
+    "water dispenser",
+    89605,
+    0.0
+   ],
+   [
+    "cat fountain",
+    76709,
+    4.0
+   ],
+   [
+    "cat water fountain stainless steel",
+    76535,
+    4.0
+   ],
+   [
+    "cat bowls",
+    57967,
+    0.0
+   ],
+   [
+    "stainless steel cat water fountain",
+    57879,
+    2.0
+   ],
+   [
+    "water fountains for cats indoor",
+    51259,
+    4.0
+   ],
+   [
+    "dog water bowl",
+    46495,
+    0.0
+   ],
+   [
+    "pets",
+    46462,
+    null
+   ],
+   [
+    "pet water fountain",
+    46449,
+    4.0
+   ],
+   [
+    "cat water fountain filter",
+    35213,
+    1.6
+   ],
+   [
+    "selene dog water fountain",
+    34285,
+    2.0
+   ]
+  ]
+ },
+ "dog": {
+  "title": "喂水器全词表终.xlsx",
+  "sheet": "Table",
+  "sheets": {
+   "Table": 5266,
+   "出单词库_历史": 7709,
+   "历史反查数据_B0GZK62Q31": 575,
+   "历史数据_备注": 3
+  },
+  "rows": 5266,
+  "cols": [
+   "关键词词组",
+   "关键词销量",
+   "搜索量",
+   "搜索占比",
+   "CPR",
+   "自然排名",
+   "竞品表现得分",
+   "B0FH33SX4J",
+   "B0GYYDZC1W",
+   "B0FYPVQQ6X",
+   "B0DS2N3T3X",
+   "自然排名2",
+   "搜索量2",
+   "广告花费",
+   "广告订单",
+   "CPA",
+   "CVR",
+   "CPC",
+   "ACOS",
+   "广告花费占比"
+  ],
+  "competitors": [
+   "B0FH33SX4J",
+   "B0GYYDZC1W",
+   "B0FYPVQQ6X",
+   "B0DS2N3T3X"
+  ],
+  "band_count": {
+   "6–<8": 252,
+   "<4": 3514,
+   "8–10": 141,
+   "4–<6": 267,
+   "无分数(-)": 1092
+  },
+  "band_sv": {
+   "6–<8": 315146,
+   "<4": 4818933,
+   "8–10": 90872,
+   "4–<6": 191196,
+   "无分数(-)": 818706
+  },
+  "share_subset": 393,
+  "share_subset_sv": 406018,
+  "tier_count": {
+   "L6": 3,
+   "L4": 49,
+   "L5": 9,
+   "L3": 46,
+   "L2": 102,
+   "L1": 392,
+   "L8": 2,
+   "L0(<1,000 总纲未定义)": 4662,
+   "L7": 1
+  },
+  "top_sv": [
+   [
+    "water",
+    734312,
+    0.8
+   ],
+   [
+    "cat water fountain",
+    309200,
+    0.0
+   ],
+   [
+    "water filter",
+    223522,
+    null
+   ],
+   [
+    "dog bowls",
+    112400,
+    2.4
+   ],
+   [
+    "dog",
+    109333,
+    0.0
+   ],
+   [
+    "dog water fountain",
+    109299,
+    6.0
+   ],
+   [
+    "water dispenser",
+    97198,
+    1.2
+   ],
+   [
+    "cat fountain",
+    74956,
+    0.0
+   ],
+   [
+    "cat water fountain stainless steel",
+    74943,
+    1.6
+   ],
+   [
+    "stainless steel cat water fountain",
+    74840,
+    1.6
+   ],
+   [
+    "cat bowls",
+    59171,
+    null
+   ],
+   [
+    "dog water bowl",
+    54721,
+    3.6
+   ],
+   [
+    "water pump",
+    50104,
+    null
+   ],
+   [
+    "kitty spout",
+    50099,
+    null
+   ],
+   [
+    "pet water fountain",
+    50094,
+    4.0
+   ]
+  ]
+ }
+}
