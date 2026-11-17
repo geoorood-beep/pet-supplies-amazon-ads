@@ -11,6 +11,8 @@
 
 **2026-11-17 更新：已确认「确定搭建」。** 执行层放在公开仓库 [geoorood-beep/amazon](https://github.com/geoorood-beep/amazon) 的 `amazon-ads-agents/`（系统名 UTA-amazon-ads），接入规则见其 `agents/knowledge-base.md`。本仓库仍只放文档和数据、保持私有，内容不复制到公开仓库；第十四章 30 条待补充规则仍不能自动执行。
 
+**2026-11-17 已并入并归档：** 本仓库内容已合并进公开仓库 [geoorood-beep/amazon](https://github.com/geoorood-beep/amazon) 的 `amazon-ads-agents/`（UTA-amazon-ads V1.3）。口径与方法论（课程知识已改写为标准 / 建议 / 待补规则）在 `knowledge/ads-framework/`，狗猫喂水器词表、西柚周扫描在 `categories/pet_water_fountain/knowledge/`。以后在那里更新。本仓库只读，保留课程原文 `source/` 备查。
+
 ## 目录
 | 路径 | 内容 |
 |---|---|
